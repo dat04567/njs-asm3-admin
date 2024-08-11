@@ -1,0 +1,10 @@
+export {default as Home, loader as loaderOrder} from './Home/Home';
+export {default as Root} from './Root/Root';
+export {default as Login} from './Login/Login';
+export {default as Products} from './Products/Products';
+export {default as NewProduct} from './New/NewProduct';
+export {default as Users} from './Users/Users';
+export {default as Chat} from './Chat/Chat';
+export {default as Messages, loader as loaderMessages} from './Chat/Messages';
+export {default as History} from './History/History';
+export {default as EditProduct, loader as loaderProduct} from './EditProduct/EditProduct';
